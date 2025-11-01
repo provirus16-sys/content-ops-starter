@@ -8,7 +8,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Welcome to CYMON Private Institute of Mathematics and Economics
     text: >
       A service that provides advice and guidance to startups and small
       businesses.

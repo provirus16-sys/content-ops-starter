@@ -28,7 +28,8 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: >-
+        /images/crealagon_hero_background_for_math_website._clean_in_the_middle_fa1d1af4-313b-45eb-af0e-d035ac69e7b9.png
       altText: Dope design preview
     badge:
       type: Badge

@@ -3,35 +3,42 @@ title: CYMON Private Institute of Mathematics and Economics
 slug: /
 type: PageLayout
 sections:
-  - type: FeaturedPostsSection
+  - type: GenericSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Business Consulting
       color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/life-of-our-development-team.md
-      - content/pages/blog/surround-yourself-with-right-people.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
+    subtitle: Be in good company
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
     colors: bg-light-fg-dark
-    hoverEffect: thin-underline
     styles:
       self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
+        alignItems: center
+        flexDirection: row-reverse
   - type: GenericSection
     title:
       text: Welcome to CYMON Private Institute of Mathematics and Economics

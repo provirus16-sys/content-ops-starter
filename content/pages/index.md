@@ -6,7 +6,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Welcome to CYMON Private Institute of Mathematics and Economics
+      text: ''
       color: text-dark
     subtitle: Be in good company
     text: >
